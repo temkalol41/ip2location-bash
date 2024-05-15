@@ -1,5 +1,3 @@
-Here is a README template in English for the bash script interacting with the ip2location.io API service. You can use this template with Markdown formatting for GitHub:
-
 ```markdown
 # IP2Location API Script
 
